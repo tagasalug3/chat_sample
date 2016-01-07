@@ -1,0 +1,1 @@
+This is a sample code for creating a chat box using HTML5, CSS3 and jQuery.

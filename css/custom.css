@@ -1,0 +1,56 @@
+body{
+    background-color: #e4e9ef;
+    font-family: sans-serif;
+    margin: 0;
+}
+
+#header{
+    width: 100%;
+    height:60px;
+    background-color: #333;
+    box-shadow: 0px 2px 5px #666;
+}
+
+#header h1{
+    width: 150px;
+    padding: 10px;
+    color: white;
+    margin: 0 auto;
+}
+
+#messageBox {
+    width: 80%;
+    height: 400px;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: #fff;
+    border: 10px solid #53aac4;
+    border-radius: 20px;
+}
+
+#textBox {
+    resize: none;
+    width: 80%;
+    height: 60px;
+    margin-left: 10%;
+    background-color: white;
+    border: 2px solid #879898;
+    border-radius: 5px;
+}
+
+#send {
+    font-size: 20px;
+    margin: 30px 0px 0px 10%;
+}
+
+.submit-btn {
+    width: 150px;
+    height: 50px;
+    background-color: #9cb2b9;
+    border: 1px solid #9cb2b9;
+    border-radius: 10px;
+}
+
+.submit-btn:hover {
+    background-color: #ccc;
+}
